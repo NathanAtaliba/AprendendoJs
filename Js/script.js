@@ -61,8 +61,6 @@ d2 = Number(div2.value);
 var resdiv = window.document.getElementById("res4"); 
 d = d1/d2;
 resdiv.innerHTML = `A divisao de ${d1} e ${d2} é igual a ${d}`;
-
-
 }
 
 
