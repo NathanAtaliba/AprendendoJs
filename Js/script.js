@@ -63,6 +63,15 @@ d = d1/d2;
 resdiv.innerHTML = `A divisao de ${d1} e ${d2} é igual a ${d}`;
 }
 
+function trocar(){
+var tex = window.document.getElementById("Vmais");
+if(tex.innerText == "Ver mais"){
+tex.innerText ="Ver menos";
+}
+else{
+    tex.innerText ="Ver mais";   
+}
+}
 
 
 

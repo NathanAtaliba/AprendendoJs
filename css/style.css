@@ -37,7 +37,7 @@ text-decoration: underline blue;
 }
 .button{
     position: absolute;
-    width: 150px;
+    width: 120px;
     height: 80px;
     font-size: 2rem;
     left: 10px;
